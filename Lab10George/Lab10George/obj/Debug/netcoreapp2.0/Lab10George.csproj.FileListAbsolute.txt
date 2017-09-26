@@ -1,0 +1,11 @@
+C:\Users\Georg\Source\Repos\Lab10-DepoymentToAzure\Lab10George\Lab10George\bin\Debug\netcoreapp2.0\Lab10George.deps.json
+C:\Users\Georg\Source\Repos\Lab10-DepoymentToAzure\Lab10George\Lab10George\bin\Debug\netcoreapp2.0\Lab10George.runtimeconfig.json
+C:\Users\Georg\Source\Repos\Lab10-DepoymentToAzure\Lab10George\Lab10George\bin\Debug\netcoreapp2.0\Lab10George.runtimeconfig.dev.json
+C:\Users\Georg\Source\Repos\Lab10-DepoymentToAzure\Lab10George\Lab10George\bin\Debug\netcoreapp2.0\Lab10George.dll
+C:\Users\Georg\Source\Repos\Lab10-DepoymentToAzure\Lab10George\Lab10George\bin\Debug\netcoreapp2.0\Lab10George.pdb
+C:\Users\Georg\Source\Repos\Lab10-DepoymentToAzure\Lab10George\Lab10George\obj\Debug\netcoreapp2.0\Lab10George.csprojResolveAssemblyReference.cache
+C:\Users\Georg\Source\Repos\Lab10-DepoymentToAzure\Lab10George\Lab10George\obj\Debug\netcoreapp2.0\Lab10George.csproj.CoreCompileInputs.cache
+C:\Users\Georg\Source\Repos\Lab10-DepoymentToAzure\Lab10George\Lab10George\obj\Debug\netcoreapp2.0\Lab10George.AssemblyInfoInputs.cache
+C:\Users\Georg\Source\Repos\Lab10-DepoymentToAzure\Lab10George\Lab10George\obj\Debug\netcoreapp2.0\Lab10George.AssemblyInfo.cs
+C:\Users\Georg\Source\Repos\Lab10-DepoymentToAzure\Lab10George\Lab10George\obj\Debug\netcoreapp2.0\Lab10George.dll
+C:\Users\Georg\Source\Repos\Lab10-DepoymentToAzure\Lab10George\Lab10George\obj\Debug\netcoreapp2.0\Lab10George.pdb
