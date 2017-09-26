@@ -6,3 +6,5 @@
 <p>	Just looking at the different features in Azure and getting something deployed now.</p>
 <h2>What resources did you utilize for this assingment?</h2>
 <p>	The docs and some tinkering as well as some previous projects.</p>
+
+http://lab10george401.azurewebsites.net/  Deployment URL

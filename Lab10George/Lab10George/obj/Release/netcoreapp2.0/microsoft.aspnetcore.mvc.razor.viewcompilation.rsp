@@ -1,0 +1,5 @@
+C:\Users\Georg\Source\Repos\Lab10-DepoymentToAzure\Lab10George\Lab10George
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=Lab10George
+--content-root=C:\Users\Georg\Source\Repos\Lab10-DepoymentToAzure\Lab10George\Lab10George
+--file=
